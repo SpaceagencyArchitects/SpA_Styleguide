@@ -1,0 +1,39 @@
+### Identify Wet Areas
+
+#### B - Floor Plans (1:100)
+(see [[B - Floor and Roof Plans]])
+- Room numbers and room names only
+
+Note:
+Do not show any description within the box in B series at **1:100**. Show description
+items on **1:20** Q series detail drawing.
+
+### Describe Construction and Finishes
+
+#### A - Legend Sheet
+(see [[A - Introductory documents]])
+_(A series general legend lists finishes codes e.g. paints and tiles that may be used elsewhere on the project)_
+- Key - description of systems, materials and finishes; reference to specification section
+![[01-image 2 4.svg]]
+
+#### Q - Legend Sheet
+(see [[Q - Wet Areas]])
+_(used exclusively for the wet areas fixtures and fittings)_
+- Key - description of bathroom fixtures and fittings; reference to specification section
+![[02-image 1 4.svg]]
+
+#### Q - Wet Area Plans, Sections and Elevations (1:20)
+(see [[Q - Wet Areas]])
+- Describe using systems, materials and finishes codes
+- Describe using fixtures and fittings codes
+![[03-image 1 3.svg]]
+**Concrete slab thermal insulation**
+Depending on the configuration of your building, you may need to provide a reflected ceiling plan of the underside of concrete slabs (to identify areas that need thermal insulation).
+
+#### Q - Wet Area Details (1:5)
+(see [[Q - Wet Areas]])
+- Describe using systems, materials and finishes codes
+![[04-image 1 4.svg]]
+
+#### Z - Specifications
+(see [[Z - Specifications]])

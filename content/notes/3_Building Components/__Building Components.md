@@ -1,0 +1,27 @@
+This section outlines how and where building components should be identified and described. Each section includes a list of information that should be included, and in which drawing group in the SpA Alphabet it belongs.
+
+### Index
+
+[[Ceilings]]
+[[Cleaning Equipment]]
+[[Concrete Setting out and Waterproofing]]
+[[Demolition]]
+[[Doors]]
+[[External Wall Systems]]
+[[Floors - Graphic Representation Scenario]]
+[[Floors - Room Schedule Scenario]]
+[[Furniture]]
+[[Joinery]]
+[[Landscaping and External Works]]
+[[Lifts]]
+[[Metalworks]]
+[[Partitions]]
+[[Roof and Roofing Systems]]
+[[Signage]]
+[[Stairs - Escape and Back-of-House]]
+[[Stairs - Feature]]
+[[Wall Finishes]]
+[[Wall Protection - Graphic Representation Scenario]]
+[[Wall Protection - Room Schedule Scenario]]
+[[Wet Areas]]
+[[Windows]]
