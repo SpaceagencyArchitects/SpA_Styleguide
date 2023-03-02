@@ -1,4 +1,4 @@
-baseURL = "https://SpaceagencyArchitects.github.io/quartz/"
+baseURL = "https://SpaceagencyArchitects.github.io/SpA_Styleguide/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
