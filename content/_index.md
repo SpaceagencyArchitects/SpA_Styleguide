@@ -1,11 +1,8 @@
 ---
-title: SpA Styleguide
-enableToc: false
+title: "Example Title"
+tags:
+- tag1
 ---
----
-title: "_index"
----
-
 
 [__Introduction](content/notes/1_Principles/__Introduction.md)
 [__SpA Alphabet](content/notes/2_Alphabet/__SpA%20Alphabet.md)
