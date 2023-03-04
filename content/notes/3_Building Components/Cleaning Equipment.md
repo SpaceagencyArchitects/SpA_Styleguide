@@ -4,7 +4,6 @@
 
 ![01-image 1](notes/3_Building%20Components/assets/01-image%201.svg)
 
-
 #### B - General Arrangement Plans (1:100)
 (see [B - Floor and Roof Plans](notes/2_Alphabet/B%20-%20Floor%20and%20Roof%20Plans.md))
 _(commonly shown on plantroom and roof plans, e.g. maintenance walkways, fall arrest systems)_
