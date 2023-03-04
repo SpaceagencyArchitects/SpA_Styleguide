@@ -1,3 +1,6 @@
+---
+title: "Principles"
+---
 ### Benefits of Following the SpA Documentation Approach
 
 - Efficient communication of design intent through a legible, simple, clear document

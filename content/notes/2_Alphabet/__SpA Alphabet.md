@@ -1,3 +1,6 @@
+---
+title: "SpA Alphabet"
+---
 ## A guide to where the information belongs within the drawing set
 
 The SpA Alphabet is a detailed listing of the items we use to describe a building.
