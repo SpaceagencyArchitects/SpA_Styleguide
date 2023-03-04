@@ -1,6 +1,5 @@
 ---
 title: SpA Styleguide
-enableToc: false
 ---
 
 - [__Introduction](notes/1_Principles/__Introduction.md)
