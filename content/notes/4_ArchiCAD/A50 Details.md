@@ -12,11 +12,11 @@ Model-based:
 
 - [A50a5 Standard Detailing and External Details](notes/4_ArchiCAD/A50a5%20Standard%20Detailing%20and%20External%20Details.md)
 
-[A50b1 Numbering and Naming Details](notes/4_ArchiCAD/A50b1%20Numbering%20and%20Naming%20Details.md)
-[A50b2 Detail Layout Techniques](notes/4_ArchiCAD/A50b2%20Detail%20Layout%20Techniques.md)
+- [A50b1 Numbering and Naming Details](notes/4_ArchiCAD/A50b1%20Numbering%20and%20Naming%20Details.md)
+- [A50b2 Detail Layout Techniques](notes/4_ArchiCAD/A50b2%20Detail%20Layout%20Techniques.md)
 
 
 
 References:
-[GWG_Detailing](notes/4_ArchiCAD/_assets/GWG_Detailing.pdf)
+- [GWG_Detailing](notes/4_ArchiCAD/_assets/GWG_Detailing.pdf)
 Help Center article 

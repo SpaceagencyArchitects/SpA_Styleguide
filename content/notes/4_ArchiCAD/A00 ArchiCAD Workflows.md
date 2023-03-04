@@ -1,2 +1,2 @@
-[A50 Details](notes/4_ArchiCAD/A50%20Details.md)
+- [A50 Details](notes/4_ArchiCAD/A50%20Details.md)
 
