@@ -9,7 +9,7 @@ Any editing of the detail in the detail view should be avoided as it would break
 
 ## Workflow##
 
-![[Pasted image 20230131155116.png]]
+![Pasted image 20230131155116](notes/4_ArchiCAD/_assets/Pasted%20image%2020230131155116.png)
 
 Step 1
 Setup a model-based source view (most typically a floor plan or a section) with the appropriate settings (i.e. layer combination, scale, pen set, model view, graphic override, renovation status, partial structure display)

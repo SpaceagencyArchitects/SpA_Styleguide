@@ -6,7 +6,7 @@ This method also shifts the detail content relative to its position in the BIMx 
 
 ## Workflow##
 
-![[Pasted image 20230131171600.png]]
+![Pasted image 20230131171600](notes/4_ArchiCAD/_assets/Pasted%20image%2020230131171600.png)
 
 Step 1
 Place a **source** detail marker (Marker type: ‘Create a new detail viewpoint’) on a plan or section view.

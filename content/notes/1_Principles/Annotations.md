@@ -1,7 +1,7 @@
 #### DRAWING DESCRIPTION
 
 Use generic material and system descriptions (e.g.‘lining’, ‘ceiling’, ‘cladding’, ‘roof sheeting’), followed by the legend sheet code describing the system or material, followed by the generic description of the finish, followed by the legend sheet finishes code:
-![[00-image.svg]]
+![00-image](notes/1_Principles/assets/00-image.svg)
 
 #### WRITING STYLE
 
@@ -23,7 +23,7 @@ The minimum recommended height of the characters is 2.0mm when printed at full s
 
 To maintain legibility and uniformity, any text on a drawing has to be either horizontal or rotated 90° counterclockwise:
 
-![[04-image.svg]]
+![04-image](notes/1_Principles/assets/04-image.svg)
 
 #### DO NOT ADD NOTES SUCH AS ‘AS SPECIFIED’, ‘AS SCHEDULED’ OR ‘REFER TO ENGINEERS DETAILS’
 

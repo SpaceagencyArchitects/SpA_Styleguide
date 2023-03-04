@@ -65,7 +65,7 @@ Doors schedules vary between projects, mostly depending on the security requirem
 - Sign text ***
 - Notes
 
-** Statutory signage is scheduled here and should not be mixed-up with [[S - Signage]] wayfinding signage, e.g. FIRE DOORS KEEP CLOSED.**
+** Statutory signage is scheduled here and should not be mixed-up with [S - Signage](notes/2_Alphabet/S%20-%20Signage.md) wayfinding signage, e.g. FIRE DOORS KEEP CLOSED.**
 
 *** Sundry elements e.g. roller shutters and the like are scheduled in the same way as any other door on the project. Use the ‘remarks’ column to describe performance related specifics.
 

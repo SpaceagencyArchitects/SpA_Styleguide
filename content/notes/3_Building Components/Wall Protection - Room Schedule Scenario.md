@@ -1,7 +1,7 @@
 ### Identify Wall Protection Systems
 
 #### F - Room Schedule
-(see [[F - Floor, Wall and Ceiling Finishes]])
+(see [F - Floor, Wall and Ceiling Finishes](notes/2_Alphabet/F%20-%20Floor,%20Wall%20and%20Ceiling%20Finishes.md))
 - The systems are identified and located by listing the materials and finishes codes under the \| WALL PROTECTION \| criteria
 
 Note: 
@@ -13,26 +13,26 @@ For more complex areas instead of trying to code it, write a note in schedule â€
 ### Describe Wall Protection Systems
 
 #### A - Legend Sheet
-(see [[A - Introductory documents]])
+(see [A - Introductory documents](notes/2_Alphabet/A%20-%20Introductory%20documents.md))
 - Key - description of wall protection items codes; reference to specification section
-![[01-image 1 4.svg]]
+![01-image 1 4](notes/3_Building%20Components/assets/01-image%201%204.svg)
 
 #### F - Room Schedule
-(see [[F - Floor, Wall and Ceiling Finishes]])
+(see [F - Floor, Wall and Ceiling Finishes](notes/2_Alphabet/F%20-%20Floor,%20Wall%20and%20Ceiling%20Finishes.md))
 - Reference complex areas which can not be scheduled to **1:50** plans in G series
-![[02-image 10.svg]]
+![02-image 10](notes/3_Building%20Components/assets/02-image%2010.svg)
 
 #### G - Internal Spaces Elevations (1:50, 1:25)
-(see [[G - Internal Spaces (Room Layouts)]])
+(see [G - Internal Spaces (Room Layouts)](notes/2_Alphabet/G%20-%20Internal%20Spaces%20(Room%20Layouts).md))
 _(if provided)_
 - Describe wall protection items using systems codes
 - Make reference to **1:5** interface details in K series
-![[03-image 7.svg]]
+![03-image 7](notes/3_Building%20Components/assets/03-image%207.svg)
 
 #### K - Interface Details (1:5)
-(see [[K - Interface Details]])
+(see [K - Interface Details](notes/2_Alphabet/K%20-%20Interface%20Details.md))
 - Detail wall protection systems using systems codes
-![[04-image 7.svg]]
+![04-image 7](notes/3_Building%20Components/assets/04-image%207.svg)
 
 #### Z - Wall Protection Specifications
-(see [[Z - Specifications]])
+(see [Z - Specifications](notes/2_Alphabet/Z%20-%20Specifications.md))

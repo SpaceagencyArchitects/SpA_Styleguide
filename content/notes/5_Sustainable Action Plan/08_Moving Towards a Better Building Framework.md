@@ -5,7 +5,7 @@ The diagram below illustrates the steps from conventional building practice, lea
 
 Regenerative development is defined as “a process by which cities, towns, and other human communities bring themselves back into life-giving alignment with the ecological systems that support them. As a practice, it seeks to create a built environment and human systems that are capable of co-evolving with nature”
 
-![[LESS ENERGY.png]]
+![LESS ENERGY](notes/5_Sustainable%20Action%20Plan/_assets/LESS%20ENERGY.png)
 
 Source: Development of a regenerative design model for building retrofits, Craft et al. Developed from Bill Reed, 2007
  
@@ -46,7 +46,7 @@ A global initiative to achieve net-zero carbon emissions by 2030, through econom
 
 While it is evident there are far reaching environmental impacts from the construction sector, operating and embodied energy (or carbon emissions) are of particular concern due to their immediate relationship to global warming and climate breakdown.
   
-![[Energy use 45-50.png]]
+![Energy use 45-50](notes/5_Sustainable%20Action%20Plan/_assets/Energy%20use%2045-50.png)
   
 
 Embodied energy (the energy expended to produce and transport a product) can be as high as 40% of a building’s total energy consumption across a 50 year lifespan. Below are some of the ‘big hitters’ when it comes to embodied energy in materials, shown with comparative values (MJ/kg):

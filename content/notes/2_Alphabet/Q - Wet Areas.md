@@ -1,4 +1,4 @@
-Typically captured as part of [[G - Internal Spaces (Room Layouts)]] series drawings and [[L - Furniture, Fixtures, Fittings and Equipment (FFE)]] series legend
+Typically captured as part of [G - Internal Spaces (Room Layouts)](notes/2_Alphabet/G%20-%20Internal%20Spaces%20(Room%20Layouts).md) series drawings and [L - Furniture, Fixtures, Fittings and Equipment (FFE)](notes/2_Alphabet/L%20-%20Furniture,%20Fixtures,%20Fittings%20and%20Equipment%20(FFE).md) series legend
 
 ### WET AREAS LEGEND SHEET
 

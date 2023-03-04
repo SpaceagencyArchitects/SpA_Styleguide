@@ -10,7 +10,7 @@ Manually drawn details require manual changes during revisions.
 
 ## Workflow##
 
-![[Pasted image 20230131171804.png]]
+![Pasted image 20230131171804](notes/4_ArchiCAD/_assets/Pasted%20image%2020230131171804.png)
 Step 1
 Create an independent detail viewpoint.
 

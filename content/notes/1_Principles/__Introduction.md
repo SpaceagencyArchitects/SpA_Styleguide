@@ -24,18 +24,18 @@ Concepts outlined in this document are principles, not rigid rules. This set of 
 
 ### Index
 
-[[Allocation of Information]]
-[[Documentation Planning Storyboarding]]
-[[Drawing and Describing Architectural Entities]]
-[[Sheet Numbering]]
-[[Referencing]]
-[[Scales]]
-[[Drawing Graphics]]
-[[Legend Sheet]]
-[[Codes]]
-[[Codes - Examples]]
-[[Drafting]]
-[[Drafting of Details]]
-[[Annotations]]
-[[Dimensioning]]
+[Allocation of Information](notes/1_Principles/Allocation%20of%20Information.md)
+[Documentation Planning Storyboarding](notes/1_Principles/Documentation%20Planning%20Storyboarding.md)
+[Drawing and Describing Architectural Entities](notes/1_Principles/Drawing%20and%20Describing%20Architectural%20Entities.md)
+[Sheet Numbering](notes/1_Principles/Sheet%20Numbering.md)
+[Referencing](notes/1_Principles/Referencing.md)
+[Scales](notes/1_Principles/Scales.md)
+[Drawing Graphics](notes/1_Principles/Drawing%20Graphics.md)
+[Legend Sheet](notes/1_Principles/Legend%20Sheet.md)
+[Codes](notes/1_Principles/Codes.md)
+[Codes - Examples](notes/1_Principles/Codes%20-%20Examples.md)
+[Drafting](notes/1_Principles/Drafting.md)
+[Drafting of Details](notes/1_Principles/Drafting%20of%20Details.md)
+[Annotations](notes/1_Principles/Annotations.md)
+[Dimensioning](notes/1_Principles/Dimensioning.md)
 

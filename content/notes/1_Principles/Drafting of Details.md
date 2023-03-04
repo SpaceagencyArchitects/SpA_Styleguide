@@ -21,4 +21,4 @@ First resolve details and junctions on paper or ‘off-line’ and determine whe
 
 Every detail needs to be explicit whether it is a plan or section
 
-![[05-image.svg]]
+![05-image](notes/1_Principles/assets/05-image.svg)

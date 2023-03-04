@@ -16,4 +16,4 @@ The same detail may be referenced from multiple locations in the project which w
 
 ‘Verbal’ back-referencing is allowable, eg. by describing the origin of the detail in the detail title.
 
-![[02-image 1.svg]]
+![02-image 1](notes/1_Principles/assets/02-image%201.svg)

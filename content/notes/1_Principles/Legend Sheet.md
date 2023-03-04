@@ -1,5 +1,5 @@
 The legend sheet provides the key to reading all graphics, abbreviations, codes and symbols used within the architectural drawing set.
-![[01-image 1.svg]]
+![01-image 1](notes/1_Principles/assets/01-image%201.svg)
 
 The legend sheet is an essential part of the drawing set.
 
