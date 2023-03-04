@@ -1,3 +1,6 @@
+---
+title: "Drawing Graphics"
+---
 ![00-image 1](notes/1_Principles/assets/00-image%201.svg)
 
 ![01-image](notes/1_Principles/assets/01-image.svg)

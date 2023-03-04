@@ -1,3 +1,6 @@
+---
+title: "02_Our Commitment"
+---
 Spaceagency recognises environmental design as integral to our journey towards a regenerative built environment. We are continually researching means of deliver better buildings that consider all contexts, from cultural and historical to environmental and experiential.
 
 Spaceagency is committed to taking on all eleven principles of the Architects Declare movement. 

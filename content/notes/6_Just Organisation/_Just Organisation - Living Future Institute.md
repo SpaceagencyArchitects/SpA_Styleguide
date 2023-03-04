@@ -1,3 +1,6 @@
+---
+title: "_Just Organisation - Living Future Institute"
+---
 Drafts for #spaceagency Just Organisation Policies
 
 [JP1.1 - Gender Diversity and Inclusion](notes/6_Just%20Organisation/JP1.1%20-%20Gender%20Diversity%20and%20Inclusion.md)

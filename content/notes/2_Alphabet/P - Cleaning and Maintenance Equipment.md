@@ -1,3 +1,6 @@
+---
+title: "P - Cleaning and Maintenance Equipment"
+---
 ### CLEANING AND MAINTENANCE EQUIPMENT (1:50)
 
 For documenting spaces and systems designated for housing the cleaning and maintenance systems, e.g. bespoke retractable cleaning crane and similar.

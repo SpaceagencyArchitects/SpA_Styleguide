@@ -1,3 +1,6 @@
+---
+title: "K - Interface Details"
+---
 ***SpA Classic Drawing Numbers: A501-599***
 ***SpA Alphabet Drawing Numbers: A.K.01-A.K.99***
 

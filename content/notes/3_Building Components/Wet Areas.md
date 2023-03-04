@@ -1,3 +1,6 @@
+---
+title: "Wet Areas"
+---
 ### Identify Wet Areas
 
 #### B - Floor Plans (1:100)

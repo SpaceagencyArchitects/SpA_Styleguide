@@ -1,3 +1,6 @@
+---
+title: "JP6.1 - Equitable Purchasing"
+---
 **Written by**: Tobias Busch
 **Checked by**:
 **Date**:

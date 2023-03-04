@@ -1,3 +1,6 @@
+---
+title: "Documentation Planning Storyboarding"
+---
 #### The Benefits of Producing a Storyboard:
 
 The purpose of storyboarding is to provide the team with

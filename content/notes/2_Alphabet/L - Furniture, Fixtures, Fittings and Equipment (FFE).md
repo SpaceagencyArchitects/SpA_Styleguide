@@ -1,3 +1,6 @@
+---
+title: "L - Furniture, Fixtures, Fittings and Equipment (FFE)"
+---
 ### JOINERY AND FURNITURE LEGEND SHEET
 
 - Legend sheet for joinery and furniture only. The L series legend sheet is shared with items described in [M - Joinery](notes/2_Alphabet/M%20-%20Joinery.md) series.

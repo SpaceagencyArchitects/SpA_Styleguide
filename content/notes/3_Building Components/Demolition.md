@@ -1,3 +1,6 @@
+---
+title: "Demolition"
+---
 #### U - Demolition (1:100)
 (see [U - Demolition](notes/2_Alphabet/U%20-%20Demolition.md))
 - Using discrete graphics show demolition items _(Use simple descriptive notes rather than codes)_

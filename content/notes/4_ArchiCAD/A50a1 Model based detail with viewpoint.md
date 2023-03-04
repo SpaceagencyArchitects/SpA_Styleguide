@@ -1,3 +1,6 @@
+---
+title: "A50a1 Model based detail with viewpoint"
+---
 Model based detailing requires the model to be developed to a high level of detail.
 This workflow uses an amplified (enlarged) model-based source views (floor plans, sections, elevations, interior elevations). Additional information (2D elements, labels, dimensions, text, etc) is added directly into the source view on a separate layer(s) (eg. 5 Details for 1:10 and 1:5 detail drawings).
 

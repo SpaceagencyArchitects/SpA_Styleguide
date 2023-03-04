@@ -1,3 +1,6 @@
+---
+title: "Cleaning Equipment"
+---
 #### A - Legend Sheet
 (see [A - Introductory documents](notes/2_Alphabet/A%20-%20Introductory%20documents.md))
 - Key to codes - description of cleaning and maintenance systems; reference to specification section

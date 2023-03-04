@@ -1,3 +1,6 @@
+---
+title: "Lifts"
+---
 ### Identify Lifts
 
 #### B - Floor Plans (1:100)

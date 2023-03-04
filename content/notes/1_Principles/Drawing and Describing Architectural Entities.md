@@ -1,3 +1,6 @@
+---
+title: "Drawing and Describing Architectural Entities"
+---
 Construction documentation consists of two principal parts: drawings and specifications
 
 #### Architectural Drawing Set

@@ -1,3 +1,6 @@
+---
+title: "A50a3 Drawn Independent Detail"
+---
 Drawing independent details resembles traditional way of 2D drawing. 
 We can use ArchiCAD's Trace & Reference to reference model views as a base for a detail we are working on and to ensure that the detail - when referenced using a linked detail marker - appears in the correct relevant location in the BIMx model.
 Several related details can be drawn on a a single detail view.

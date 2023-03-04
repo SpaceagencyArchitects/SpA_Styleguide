@@ -1,3 +1,6 @@
+---
+title: "S - Signage"
+---
 ### SIGNAGE (WAYFINDING) 1:20 1:5
 
 Wayfinding signage elements will often be documented by a signage consultant. In that case we only do setting-out in B and E series general arrangement plans.

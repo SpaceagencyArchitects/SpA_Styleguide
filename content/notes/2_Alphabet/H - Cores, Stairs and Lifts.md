@@ -1,3 +1,6 @@
+---
+title: "H - Cores, Stairs and Lifts"
+---
 ***SpA Classsic Drawing Numbers: A401-A499***
 ***SpA Alphabet Drawing Numbers: A.H.01-A.H.99***
 

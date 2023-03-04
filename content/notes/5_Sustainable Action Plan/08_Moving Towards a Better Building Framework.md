@@ -1,4 +1,6 @@
-
+---
+title: "08_Moving Towards a Better Building Framework"
+---
 **REGENERATIVE DESIGN**
 
 The diagram below illustrates the steps from conventional building practice, leading to the ultimate goal of regenerative design. While sustainable design aims for carbon neutral buildings, we need to do more to restore and not just sustain.

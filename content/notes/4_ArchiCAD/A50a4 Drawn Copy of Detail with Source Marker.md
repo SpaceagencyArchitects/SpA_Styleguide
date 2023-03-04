@@ -1,3 +1,6 @@
+---
+title: "A50a4 Drawn Copy of Detail with Source Marker"
+---
 This method starts with placing a source detail marker to generate 2D content in a detail viewpoint. The 2D content will then be copied and completed with 2D elements like fills, lines, dimensions, labels, etc.
 
 This workflow is good for detail variations (e.g. same cladding type, different floor finish, which are shown in several variations of the same detail).

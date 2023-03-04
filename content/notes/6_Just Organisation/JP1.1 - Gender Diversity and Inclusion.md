@@ -1,3 +1,6 @@
+---
+title: "JP1.1 - Gender Diversity and Inclusion"
+---
 **Written by**: Tobias Busch
 **Checked by**:
 **Date**:

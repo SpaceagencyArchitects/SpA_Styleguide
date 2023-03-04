@@ -1,3 +1,6 @@
+---
+title: "JP2.2 - Pay Scale Equity"
+---
 Level 4
 
 # Policy

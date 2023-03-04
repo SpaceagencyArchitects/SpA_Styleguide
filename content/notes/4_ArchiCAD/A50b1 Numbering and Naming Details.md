@@ -1,3 +1,6 @@
+---
+title: "A50b1 Numbering and Naming Details"
+---
 The reference ID and naming of details should make it easy to navigate the Project and View maps.
 
 IDs and names for detail views should only be set in the Project Map or the marker of the relevant view type.

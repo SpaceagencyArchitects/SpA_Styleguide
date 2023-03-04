@@ -1,3 +1,6 @@
+---
+title: "M - Joinery"
+---
 ### GENERAL ARRANGEMENT PLANS (1:100)
 
 Required only if not possible to show and code joinery items in [B - Floor and Roof Plans](notes/2_Alphabet/B%20-%20Floor%20and%20Roof%20Plans.md) or [G - Internal Spaces (Room Layouts)](notes/2_Alphabet/G%20-%20Internal%20Spaces%20(Room%20Layouts).md).

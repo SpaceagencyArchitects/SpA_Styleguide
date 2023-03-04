@@ -1,3 +1,6 @@
+---
+title: "06_Training"
+---
 Transforming our sustainable design practices will be a joint effort involving all our team members. Spaceagency is committed to supporting our team with the knowledge, training, and resources they need to be successful in our commitment to meeting the 2030 targets.
 
 **ADVANCED TOOL & SOFTWARE TRAINING**

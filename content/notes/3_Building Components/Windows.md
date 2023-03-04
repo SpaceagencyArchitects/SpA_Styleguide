@@ -1,3 +1,6 @@
+---
+title: "Windows"
+---
 ### Identify Windows
 
 #### B - Series floor plans (1:100)

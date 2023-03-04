@@ -1,3 +1,6 @@
+---
+title: "Dimensioning"
+---
 #### Use Grids and Centre Lines
 Allow the building to ‘dimension itself’ as much as possible.
 

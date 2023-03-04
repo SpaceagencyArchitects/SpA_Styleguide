@@ -1,3 +1,6 @@
+---
+title: "JP2.4 - Living Wage"
+---
 
 Level 4
 

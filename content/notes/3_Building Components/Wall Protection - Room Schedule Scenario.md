@@ -1,3 +1,6 @@
+---
+title: "Wall Protection - Room Schedule Scenario"
+---
 ### Identify Wall Protection Systems
 
 #### F - Room Schedule

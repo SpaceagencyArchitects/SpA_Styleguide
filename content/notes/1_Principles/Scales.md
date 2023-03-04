@@ -1,3 +1,6 @@
+---
+title: "Scales"
+---
 #### Scales
 
 The drawing scales listed in the SpA Alphabet and Building Components are prescriptive

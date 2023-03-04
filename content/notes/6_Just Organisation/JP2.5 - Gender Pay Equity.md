@@ -1,3 +1,6 @@
+---
+title: "JP2.5 - Gender Pay Equity"
+---
 **Level 2/3?**
 
 # Policy

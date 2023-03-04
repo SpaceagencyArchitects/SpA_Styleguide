@@ -1,3 +1,6 @@
+---
+title: "05_Advocacy"
+---
 The path to solving the worst impacts of climate change runs through the building sector. Individual firms can lead by example, but we must also amplify the impact of our commitment. Among clients, consultants, and the profession at large, it is crucial that we help develop a culture that supports our work, and advances the broader decarbonisation of the built environment, resilient design and planning, and other climate actions.
 
 **SUSTAINABLE DESIGN IS GOOD DESIGN**

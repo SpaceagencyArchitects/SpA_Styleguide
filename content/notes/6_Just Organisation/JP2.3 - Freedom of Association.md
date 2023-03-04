@@ -1,3 +1,6 @@
+---
+title: "JP2.3 - Freedom of Association"
+---
 **Written by**: Tobias Busch
 **Checked by**:
 **Date**:

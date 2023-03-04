@@ -1,3 +1,6 @@
+---
+title: "A50 Details"
+---
 The ideal detailing workflow is to use the model to extract details with minimal 2D work involved. Although building a model for automatic extraction of details requires good modelling skills and a good understanding of BIM, a huge advantage of model-based detail over pure 2D details is that we can utilise and display information built into the elements: properties, descriptions, classifications -- practically any non-graphical metadata.
 
 We can use different model-based scenarios, or traditional 2D approaches, depending on the project and nature of detail we are conveying:

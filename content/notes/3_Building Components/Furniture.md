@@ -1,3 +1,6 @@
+---
+title: "Furniture"
+---
 ### Identity furniture items
 
 #### L - Furnished General Arrangement Plans (1:100)

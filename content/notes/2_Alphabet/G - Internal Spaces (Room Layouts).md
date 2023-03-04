@@ -1,3 +1,6 @@
+---
+title: "G - Internal Spaces (Room Layouts)"
+---
 ### INTERNAL SPACES - PLANS (1:50, 1:25)
 ***SpA Classic Drawing Numbers: A800-A899***
 ***SpA Alphabet Drawing Numbers: A.G.01-A.G.99***

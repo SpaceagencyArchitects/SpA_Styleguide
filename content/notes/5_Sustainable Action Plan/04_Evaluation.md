@@ -1,3 +1,6 @@
+---
+title: "04_Evaluation"
+---
 You cannot manage what you do not measure. We recognise that there is tremendous value in evaluating the impact of our design decisions and assessing our progress towards the energy targets we set – on the project level, across the practice’s portfolio, and in relation to the work of our peers nationally.
 
 **EVALUATING OUR CURRENT PROJECT PORTFOLIO**

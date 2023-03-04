@@ -1,3 +1,6 @@
+---
+title: "A50a5 Standard Detailing and External Details"
+---
 Many manufacturers provide standard details, most commonly in .pdf or .dwg file formats.
 
 We can use these details in a number of ways:

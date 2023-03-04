@@ -1,3 +1,6 @@
+---
+title: "Partitions"
+---
 ### Identify Partitions
 
 #### B - Floor Plans (1:100)

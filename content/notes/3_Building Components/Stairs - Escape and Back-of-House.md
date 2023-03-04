@@ -1,3 +1,6 @@
+---
+title: "Stairs - Escape and Back-of-House"
+---
 ### Identify Stairs
 
 #### B - Floor Plans (1:100)

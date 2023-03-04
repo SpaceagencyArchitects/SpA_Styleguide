@@ -1,3 +1,6 @@
+---
+title: "A50b2 Detail Layout Techniques"
+---
 The number of detail views we have in the file is not necessarily equal to the number of placed detail drawings we will have on the layouts. Multiple detail drawings can be derived from a single view; then again, one view can be a single drawing source but show more details at once. 
 
 Depending on how we arrange the placement of the detail drawings from views to layouts, we can use three layout techniques: 

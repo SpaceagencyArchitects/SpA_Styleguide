@@ -1,3 +1,6 @@
+---
+title: "A50a2 3D Document Detail"
+---
 Another way of creating detail documentation based on the model is with the use of 3D Documents (3DD). 3DDs are 3D-based, but static documentation views, projected from a floor plan or a 3D window, which enable us to add dimensions, labels and graphical enhancements. This output can be more descriptive and understandable for contractors than a standard 2D detail drawing; it can still be part of a standard documentation set. 
 We can display properties, classifications and other associated information using associative labels. 3DD-specific features include the ability to display hidden lines of elements, shadows and dimensioning of any plane in the 3D view.
 
