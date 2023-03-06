@@ -2,17 +2,15 @@
 title: "SpA Ground Control"
 ---
 
-SpA Ground Control is a repository of information.
-
-At present, it includes the following sections:
+SpA Ground Control is a collection of guidelines for the documentation of buidling projects.
+At present, it includes the following:
 
 # 1 Documentation Codex
 An outline of how we document projects.
 
-## [1a__Principles](notes/1_Documentation%20Codex/1a_Principles/1a__Principles.md) ##
+## [1a__Principles](notes/1_Documentation%20Codex/1a_Principles/1a__Principles.md)
 
 An outline of the SpA Documentation approach.
-
 - [Allocation of Information](notes/1_Documentation%20Codex/1a_Principles/Allocation%20of%20Information.md)
 - [Documentation Planning Storyboarding](notes/1_Documentation%20Codex/1a_Principles/Documentation%20Planning%20Storyboarding.md)
 - [Drawing and Describing Architectural Entities](notes/1_Documentation%20Codex/1a_Principles/Drawing%20and%20Describing%20Architectural%20Entities.md)
@@ -28,7 +26,7 @@ An outline of the SpA Documentation approach.
 - [Annotations](notes/1_Documentation%20Codex/1a_Principles/Annotations.md)
 - [Dimensioning](notes/1_Documentation%20Codex/1a_Principles/Dimensioning.md)
 
-## [1b__SpA Alphabet](notes/1_Documentation%20Codex/1b_Alphabet/1b__SpA%20Alphabet.md) ##
+## [1b__SpA Alphabet](notes/1_Documentation%20Codex/1b_Alphabet/1b__SpA%20Alphabet.md)
 
 A guide to where information belongs within the drawing set.
 - [A - Introductory documents](notes/1_Documentation%20Codex/1b_Alphabet/A%20-%20Introductory%20documents.md)
@@ -79,7 +77,7 @@ How and where to document building components.
 - [Wet Areas](notes/1_Documentation%20Codex/1c_Building%20Components/Wet%20Areas.md)
 - [Windows](notes/1_Documentation%20Codex/1c_Building%20Components/Windows.md)
 
-## [1d__ArchiCAD Workflows](notes/1_Documentation%20Codex/1d_ArchiCAD/1d__ArchiCAD%20Workflows.md)##
+## [1d__ArchiCAD Workflows](notes/1_Documentation%20Codex/1d_ArchiCAD/1d__ArchiCAD%20Workflows.md) 
 
 A guide to some of the workflows we use in ArchiCAD.
 
