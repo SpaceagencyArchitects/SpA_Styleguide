@@ -11,20 +11,24 @@ Used to graphically describe rooms which can not be adequately scheduled in the 
 - Room names, room numbers and finished floor levels (FFL)
 - Description using systems, materials and finishes codes
 - Joinery nomination and setting-out
-- Section references referring to [K - Interface Details](notes/1_Documentation%20Codex/1b_Alphabet/K%20-%20Interface%20Details.md)
-- Detail markers referring to [K - Interface Details](notes/1_Documentation%20Codex/1b_Alphabet/K%20-%20Interface%20Details.md) and [M - Joinery](notes/1_Documentation%20Codex/1b_Alphabet/M%20-%20Joinery.md) detail drawings
+- Detail markers referring [M - Joinery](notes/1_Documentation%20Codex/1b_Alphabet/M%20-%20Joinery.md) detail drawings
 - Internal elevation references
 - Setting-out points
-- Dimensions and setting-out other than already done in 1:100 B series.
+- Horizontal dimensions and setting-out other than already done in 1:100 B series
+- Horizontal dimensions and setting-out of fixtures, accessories, sanitary- and tapware
 - Codes describing floor finishes (and substrates where appropriate)
 - Codes describing floor mounted fixtures, fittings and equipment.
 
+Other items that may be shown on these layouts
+- Section references referring to [K - Interface Details](notes/1_Documentation%20Codex/1b_Alphabet/K%20-%20Interface%20Details.md)
+- Detail markers referring to [K - Interface Details](notes/1_Documentation%20Codex/1b_Alphabet/K%20-%20Interface%20Details.md)
 
 ### INTERNAL SPACES - REFLECTED CEILING PLANS  (1:50, 1:25)
 - Codes describing ceiling finishes (and substrates where appropriate)
 - Codes describing ceiling mounted fixtures, fittings and equipment.
 - Codes describing electric and mechanical fixtures and access panels.
-- Dimensions and setting-out other than already done in 1:100 E series.
+- Vertical dimensions and setting-out other than already done in 1:100 E series.
+- Vertical dimensions and setting-out of fixtures, accessories, sanitary- and tapware
 
 ### INTERNAL SPACES - INTERNAL ELEVATIONS (1:50, 1:25)
 

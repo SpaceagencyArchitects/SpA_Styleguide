@@ -14,16 +14,16 @@ The **Discipline designator** helps to identify the type of work that is include
 The **Sheet Types designator** organizes drawings into categories - generally from most general to most specific or specialised. Since plans are most helpful to see the overall design of the project, they come first. Elevations and sections are a bit more specific and come next followed by details and schedules, which are the most specific type of drawings.
 
 Sheet Types designators used for spaceagency drawings are:
-0 - General: Symbol legend, abbreviations, general notes
-1 - Plans
-2 - Elevations
-3 - Sections
-4 - Large Scale Drawings: plans, elevations, sections (NOT details)
-5 - Details
-6 - Schedules and Diagrams
-7 - User Defined
-8 - Room Layouts and Elevations
-9 - 3D drawings: isometric, perspective, photos
+- 0 - General: Symbol legend, abbreviations, general notes
+- 1 - Plans (including Floor, Roof, Ceilings, Electrical)
+- 2 - Elevations
+- 3 - Sections
+- 4 - Large Scale Drawings: plans, elevations, sections (NOT details, eg. stairs, metalwork)
+- 5 - Details
+- 6 - Room Layouts and Elevations
+- 7 - Door and Window Schedules
+- 8 - Finishes Schedules
+- 9 - 3D drawings: isometric, perspective, photos
 
 The final component of the sheet number is the two-digit **sequence number**, which is between 01 and 99. The sequence numbers do not have to be sequential so that space may be left within the set for future additions.
 
